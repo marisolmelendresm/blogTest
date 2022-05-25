@@ -30,4 +30,4 @@ jobs:
      - name: Install software
        run: pip install -r ./testrequirements.txt  
      - name: Run the tests
-       run: python ./test_testhola.py
+       run: python ./test_expensesform.py
